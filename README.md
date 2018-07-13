@@ -8,3 +8,5 @@
 [git mirror](https://git.tuxnix.ru)
 
 [matrix room](https://riot.im/app/#/room/#nixscript:matrix.org)
+
+![Icon](https://git.tuxnix.ru/img/favicon.png)
